@@ -1,7 +1,7 @@
 ### Welcome to my GitHub! 👋
 
 
-![https://www.linkedin.com/in/brendon-james-43987a231](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) and ![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)
+Check me out on [LinkedIn](https://www.linkedin.com/in/brendon-james-43987a231/) and [AngelList](https://angel.co/u/brendon-james-2)
 
 ## Technologies
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
